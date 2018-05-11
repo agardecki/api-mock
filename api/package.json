@@ -1,0 +1,22 @@
+{
+  "name": "mock-api",
+  "version": "0.0.1",
+  "main": "server.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agardek/mock-api.git"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "express-oauth-server": "^2.0.0",
+    "jsonwebtoken": "^7.4.1",
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1",
+    "uuid": "^3.0.1",
+    "json-server": "^0.12.1",
+    "multer": "^1.3.0",
+    "faker": "^4.1.0"
+  }
+}
